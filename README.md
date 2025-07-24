@@ -118,7 +118,7 @@ auto-contract-interpreter/
 
 ## 📝 License
 
-MIT License. See [LICENSE](LICENSE) file for full details.
+MIT License. See [LICENSE] file for full details.
 
 ---
 
@@ -126,19 +126,13 @@ MIT License. See [LICENSE](LICENSE) file for full details.
 
 
 1. Fork the repository.
-
 2. Create a feature branch:
    ```bash
    git checkout -b feature/your-feature-name
-
 3. Make your changes and commit:
-  ```bash
-  git commit -am "Add your feature"
-
-4. Push to your fork:
-  ```bash
-    git push origin feature/your-feature-name
-
+   ```bash
+   git commit -am "Add your feature"
+4. Push to your work:
+   ```bash
+   git push origin feature/your-feature-name
 5. Open a pull request on GitHub 🎉
-
-Pull requests are welcome! Suggestions for improvements, OCR integration, or multi-language support are encouraged.
