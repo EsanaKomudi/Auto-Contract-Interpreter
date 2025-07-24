@@ -1,0 +1,6 @@
+tk
+PyMuPDF
+langchain
+google-generativeai
+pyttsx3
+python-dotenv
